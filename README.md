@@ -1,4 +1,5 @@
 # lab-2
+Pre-reqs: Install [Bun](https://bun.sh)
 
 To run: 
 ```bash
@@ -15,4 +16,3 @@ Run the test suite with:
 bun test --coverage
 ```
 
-This project was created using `bun init` in bun v1.0.1. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
