@@ -1,4 +1,4 @@
-# lab-2
+# FWSD COMP - 1320 - lab-2
 Pre-reqs: Install [Bun](https://bun.sh) if you're on Linux, Mac or WSL
 ```bash
 curl -fsSL https://bun.sh/install | bash
