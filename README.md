@@ -1,5 +1,8 @@
 # lab-2
-Pre-reqs: Install [Bun](https://bun.sh)
+Pre-reqs: Install [Bun](https://bun.sh) if you're on Linux, Mac or WSL
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
 
 To run: 
 ```bash
@@ -13,6 +16,6 @@ npx tsx main.ts
 
 Run the test suite with:
 ```bash
-bun test --coverage
+bun test --coverage --silent
 ```
 
